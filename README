@@ -1,0 +1,1 @@
+## An Alpine-based image to create persistent MySQL SSH tunnels. Expects to be run in a Kubernetes cluster, preferably as a DaemonSet.
